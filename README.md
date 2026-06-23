@@ -1,0 +1,2 @@
+# medavida-partner
+Partner Dashboard
